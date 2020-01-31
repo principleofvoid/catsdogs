@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CatsDogs</string>
+    <string name="imageContentDescription">Image</string>
+    <string name="cats">Cats</string>
+    <string name="dogs">Dogs</string>
+    <string name="error">Error</string>
+</resources>
